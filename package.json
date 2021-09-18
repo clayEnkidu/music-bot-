@@ -1,0 +1,31 @@
+{
+  "name": "DBAMusiBot",
+  "version": "1.0.0",
+  "description": "This Is A Music Bot Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "opusscript": "0.0.7",
+    "os": "^0.1.1",
+    "youtube-sr": "^2.0.5",
+    "yt-search": "^2.5.1",
+    "ytdl-core": "^4.4.2",
+    "ytdl-core-discord": "^1.2.5",
+    "ytpl": "^2.0.4"
+  }
+}
